@@ -1,0 +1,6 @@
+hola 
+
+este es mi segundo cambio
+
+
+Mi primer ejercicio del curso de git y GitHub
