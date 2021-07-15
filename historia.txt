@@ -1,6 +1,9 @@
 hola 
 
 este es mi segundo cambio
+que chimba
+
+en camara parece alto 
 
 
 Mi primer ejercicio del curso de git y GitHub
